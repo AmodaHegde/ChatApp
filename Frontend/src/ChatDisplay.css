@@ -1,0 +1,8 @@
+.chat-display{
+    display: flex;
+    padding: 10px;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-left: 2%;
+    font-size: 18px;
+}

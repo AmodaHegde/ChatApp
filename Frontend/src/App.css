@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  margin-left: 0%;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+  color: #333;
+}
+.Title {
+  font-size: 2em;
+  text-align: center;
+  color: #031426;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
